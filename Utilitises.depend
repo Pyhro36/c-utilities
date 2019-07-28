@@ -1,0 +1,33 @@
+# depslib dependency file v1.0
+1405011291 source:c:\users\pierre-louis\documents\informatique\codeblocks\utilitises\algebre.c
+	<stdio.h>
+	<stdlib.h>
+	<math.h>
+
+1423668016 source:c:\users\pierre-louis\documents\informatique\codeblocks\utilitises\main.c
+	<stdio.h>
+	<stdlib.h>
+	<math.h>
+	<string.h>
+	"algebre.h"
+	"table.h"
+	"stringExtend.h"
+
+1405010410 c:\users\pierre-louis\documents\informatique\codeblocks\utilitises\algebre.h
+
+1412880233 c:\users\pierre-louis\documents\informatique\codeblocks\utilitises\table.h
+
+1412880226 source:c:\users\pierre-louis\documents\informatique\codeblocks\utilitises\table.c
+	<stdio.h>
+	<stdlib.h>
+	<math.h>
+
+1423668016 c:\users\pierre-louis\documents\informatique\codeblocks\utilitises\stringextend.h
+
+1423668141 source:c:\users\pierre-louis\documents\informatique\codeblocks\utilitises\stringextend.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<time.h>
+	<math.h>
+
